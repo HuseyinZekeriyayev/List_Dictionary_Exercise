@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\github\Topic List\bin\Debug\net8.0\Topic List.exe
+C:\Users\user\Desktop\github\Topic List\bin\Debug\net8.0\Topic List.deps.json
+C:\Users\user\Desktop\github\Topic List\bin\Debug\net8.0\Topic List.runtimeconfig.json
+C:\Users\user\Desktop\github\Topic List\bin\Debug\net8.0\Topic List.dll
+C:\Users\user\Desktop\github\Topic List\bin\Debug\net8.0\Topic List.pdb
+C:\Users\user\Desktop\github\Topic List\obj\Debug\net8.0\Topic List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\github\Topic List\obj\Debug\net8.0\Topic List.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\github\Topic List\obj\Debug\net8.0\Topic List.AssemblyInfo.cs
+C:\Users\user\Desktop\github\Topic List\obj\Debug\net8.0\Topic List.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\github\Topic List\obj\Debug\net8.0\Topic List.dll
+C:\Users\user\Desktop\github\Topic List\obj\Debug\net8.0\refint\Topic List.dll
+C:\Users\user\Desktop\github\Topic List\obj\Debug\net8.0\Topic List.pdb
+C:\Users\user\Desktop\github\Topic List\obj\Debug\net8.0\Topic List.genruntimeconfig.cache
+C:\Users\user\Desktop\github\Topic List\obj\Debug\net8.0\ref\Topic List.dll
